@@ -34,11 +34,18 @@
     },
     {
       "id": 5,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/5.jpeg",
+      "image": "https://pbs.twimg.com/media/EeMK0vcUEAAevJY?format=jpg&name=medium",
       "small": "https://pbs.twimg.com/profile_images/1071019490517889029/_iaMvfkM_reasonably_small.jpg",
       "aspectRatio": 0.834,
       "description": "Sinal de aviso Alerta: inscrições chegando ao fim!\n\nÚltimos dias para você se inscrever gratuitamente no bootcamp \"Cloud Computing & Serverless\", conhecer as ferramentas de computação em nuvem da Microsoft e os principais serviços do Azure.\n\nMatricule-se: https://zcu.io/pq0r 🧲",
       "authorId": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "dio4tech",
+      "avatar": "https://pbs.twimg.com/profile_images/1071019490517889029/_iaMvfkM_reasonably_small.jpg"
     }
   ]
 }
