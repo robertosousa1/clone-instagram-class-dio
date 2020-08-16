@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { FlatList } from 'react-native';
 
+import FeedImage from '../../components/FeedImage';
+
 import api from '../../services/api';
 
 import {
@@ -61,6 +63,12 @@ export default function Feed() {
               <Avatar source={{ uri: item.author.avatar }} />
               <Name>{item.author.name}</Name>
             </Header>
+
+            <FeedImage
+              aspectRatio={item.aspectRatio}
+              smallSource={{ uri: item.image }}
+              source={{ uri: item.small }}
+            />
 
             <Description>
               <Name>{item.author.name}</Name> {item.description}

@@ -2,9 +2,7 @@ import styled from 'styled-components/native';
 
 export const Container = styled.View``;
 
-export const Post = styled.View`
-  margin-top: 10px;
-`;
+export const Post = styled.View``;
 
 export const Header = styled.View`
   padding: 15px;
