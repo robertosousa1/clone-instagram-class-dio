@@ -2,7 +2,7 @@
 	Clone Instagram - Digital Innovation One
 </h3>
 <p align="center">
-Repository developed in a project taught by <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
+Repository developed in a project in which I taught by <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
 </p>
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/robertosousa1/clone-instagram-class-dio.svg">
